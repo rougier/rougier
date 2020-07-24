@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/-_Summer_2020-orange.svg?style=flat-square" align="right"/> Scientific Python — Volume II  
+<img src="https://img.shields.io/badge/-_Autumn_2020-orange.svg?style=flat-square" align="right"/> Scientific Python — Volume II  
 **Scientific Visualization – Python & Matplotlib**, Nicolas P. Rougier
 
 <img src="https://raw.githubusercontent.com/rougier/scientific-visualization-book/master/images/cover.png" width="33%" alt="Front cover" align="right"/>
