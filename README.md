@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/rougier/scientific-visualization-book/master/images/cover.png" width="33%" alt="Front cover" align="right"/>
 
-Scientific Python — Volume II  
+<img src="https://img.shields.io/badge/Scientific_Python_-_Volume_II-orange.svg?style=flat-square"/> 
 **Scientific Visualization – Python & Matplotlib**, Nicolas P. Rougier
 
 
