@@ -22,10 +22,15 @@ typography</a>).</p>
   <strong>Nicolas P. Rougier</strong>
 </p>
 
-### Some of my work on GitHub
-
 ![GitHub stars](https://img.shields.io/github/stars/rougier/from-python-to-numpy?style=social)  
 [**From Python to Numpy**](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) Open Access book on NumPy.
 
 ![GitHub stars](https://img.shields.io/github/stars/rougier/numpy-100?style=social)  
 [**100 NumPy Exercises**](https://github.com/rougier/numpy-100) 100 Numpy exercises with solutions.
+
+![GitHub stars](https://img.shields.io/github/stars/matplotlib/cheatsheets?style=social)  
+[**Matplotlib cheatsheets**](https://github.com/matplotlib/cheatsheets) Official Matplotlib cheasheets and handouts
+
+![GitHub stars](https://img.shields.io/github/stars/glumpy/glumpy?style=social)  
+[**Glumpy**](https://github.com/glumpy/glumpy) Fast, Scalable and Beautiful Scientific Visualization
+
