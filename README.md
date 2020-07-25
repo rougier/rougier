@@ -21,7 +21,7 @@ typography</a>).<br/><br/>
 
 <img src="https://raw.githubusercontent.com/rougier/rougier/master/rougier.png" width="20%" align="right"/>
 
-</p><br/>
+</p><br/><br/>
 
 
 ![GitHub stars](https://img.shields.io/github/stars/rougier/from-python-to-numpy?style=social)
