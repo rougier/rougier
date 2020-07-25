@@ -20,7 +20,7 @@ Why your cat is lousy at chess?</a>) and computer graphics (especially <a href="
 typography</a>).
 </p>
 
-[![](sponsoring.png)](https://github.com/sponsors/rougier)
+[![](https://raw.githubusercontent.com/rougier/rougier/master/sponsoring.png)](https://github.com/sponsors/rougier)
 
 <p align="right">
   <strong>Nicolas P. Rougier</strong>
