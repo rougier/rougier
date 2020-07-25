@@ -1,5 +1,5 @@
 <p align="justify">
-<img src="https://raw.githubusercontent.com/rougier/scientific-visualization-book/master/images/cover.png" width="26%" align="right"/>
+<img src="https://raw.githubusercontent.com/rougier/scientific-visualization-book/master/images/cover.png" width="27%" align="right"/>
   I’m a researcher in computational cognitive neuroscience at <a href="https://www.inria.fr/en/">Inria</a> and the
 <a href="http://www.imn-bordeaux.org/en/">Institute of Neurodegenerative Diseases</a> (Bordeaux, France). I’m investigating
 decision making, learning and cognition using computational models of the brain
@@ -17,7 +17,7 @@ visualization (I’ve created <a href="https://glumpy.github.io">glumpy</a>, co-
 popular <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833">Ten Simple Rules for Better Figures</a> article), Science outreach
 (e.g. <a href="https://theconversation.com/why-your-cat-is-lousy-at-chess-yet-way-smarter-than-even-the-most-advanced-ai-125581">
 Why your cat is lousy at chess?</a>) and computer graphics (especially <a href="https://fr.slideshare.net/NicolasRougier1/siggraph-2018-digital-typography">digital
-typography</a>).</p>
+typography</a>).</p><br/>
 <img src="https://raw.githubusercontent.com/rougier/rougier/master/rougier.png" width="10%" align="right"/>
 
 <br/><br/>
