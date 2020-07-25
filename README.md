@@ -18,7 +18,7 @@ popular <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journ
 (e.g. <a href="https://theconversation.com/why-your-cat-is-lousy-at-chess-yet-way-smarter-than-even-the-most-advanced-ai-125581">
 Why your cat is lousy at chess?</a>) and computer graphics (especially <a href="https://fr.slideshare.net/NicolasRougier1/siggraph-2018-digital-typography">digital
 typography</a>).</p>
-<img src="https://raw.githubusercontent.com/rougier/rougier/master/rougier.png" width="20%" align="right"/>
+<img src="https://raw.githubusercontent.com/rougier/rougier/master/rougier.png" width="10%" align="right"/>
 
 <br/><br/>
 
