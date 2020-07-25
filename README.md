@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/rougier/scientific-visualization-book/master/images/cover.png" width="20%" align="right"/>
-
+<img src="https://raw.githubusercontent.com/rougier/scientific-visualization-book/master/images/cover.png" width="26%" align="right"/>
 <p align="justify">
   I’m a researcher in computational cognitive neuroscience at <a href="https://www.inria.fr/en/">Inria</a> and the
 <a href="http://www.imn-bordeaux.org/en/">Institute of Neurodegenerative Diseases</a> (Bordeaux, France). I’m investigating
@@ -18,4 +17,7 @@ visualization (I’ve created <a href="https://glumpy.github.io">glumpy</a>, co-
 popular <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833">Ten Simple Rules for Better Figures</a> article), Science outreach
 (e.g. <a href="https://theconversation.com/silicon-soul-the-vain-dream-of-electronic-immortality-52368">The Conversation</a>) and computer graphics (especially <a href="https://fr.slideshare.net/NicolasRougier1/siggraph-2018-digital-typography">digital
 typography</a>).
+</p>
+<p align="right">
+  <strong>Nicolas P. Rougier</strong>
 </p>
