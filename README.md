@@ -17,10 +17,7 @@ visualization (I’ve created <a href="https://glumpy.github.io">glumpy</a>, co-
 popular <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833">Ten Simple Rules for Better Figures</a> article), Science outreach
 (e.g. <a href="https://theconversation.com/why-your-cat-is-lousy-at-chess-yet-way-smarter-than-even-the-most-advanced-ai-125581">
 Why your cat is lousy at chess?</a>) and computer graphics (especially <a href="https://fr.slideshare.net/NicolasRougier1/siggraph-2018-digital-typography">digital
-typography</a>).</p><br/>
-<img src="https://raw.githubusercontent.com/rougier/rougier/master/rougier.png" width="10%" align="right"/>
-
-<br/><br/>
+typography</a>).</p>
 
 ![GitHub stars](https://img.shields.io/github/stars/rougier/from-python-to-numpy?style=social)
 ![](https://img.shields.io/badge/Scientific_Python-Volume_I-orange?style=flat)  
