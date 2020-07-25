@@ -22,3 +22,6 @@ typography</a>).
 <p align="right">
   <strong>Nicolas P. Rougier</strong>
 </p>
+
+
+[![](sponsoring.png)](https://github.com/sponsors/rougier)
