@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/rougier/scientific-visualization-book/master/images/cover.png" width="26%" align="right"/>
-<p align="justify">
+<img src="https://raw.githubusercontent.com/rougier/scientific-visualization-book/master/images/cover.png" width="26%" align="right"/><p align="justify">
   I’m a researcher in computational cognitive neuroscience at <a href="https://www.inria.fr/en/">Inria</a> and the
 <a href="http://www.imn-bordeaux.org/en/">Institute of Neurodegenerative Diseases</a> (Bordeaux, France). I’m investigating
 decision making, learning and cognition using computational models of the brain
