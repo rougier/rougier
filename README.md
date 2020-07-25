@@ -20,7 +20,7 @@ Why your cat is lousy at chess?</a>) and computer graphics (especially <a href="
 typography</a>).</p>
 <img src="https://raw.githubusercontent.com/rougier/rougier/master/rougier.png" width="20%" align="right"/>
 
-<p></p>
+<br/><br/>
 
 ![GitHub stars](https://img.shields.io/github/stars/rougier/from-python-to-numpy?style=social)
 ![](https://img.shields.io/badge/Scientific_Python-Volume_I-orange?style=flat)  
