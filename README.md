@@ -27,11 +27,10 @@ typography</a>).</p>
 [**From Python to Numpy**](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) A book on Numpy concentrating on the migration from Python to Numpy through vectorization. There are a lot of techniques that you don't find in books and such techniques are mostly learned through experience. The goal of this book is to explain some of these techniques and to provide an opportunity for making this experience in the process.
 
 ![GitHub stars](https://img.shields.io/github/stars/rougier/python-opengl?style=social)
-[**Scientific Visualization: Python & OpenGL**](https://www.labri.fr/perso/nrougier/python-opengl/) The goal of this book is to reconcile Python programmers with OpenGL, providing both an introduction to modern OpenGL and a set of basic and advanced techniques in order to achieve both fast, scalable & beautiful scientific visualizations.
+[**Python & OpenGL**](https://www.labri.fr/perso/nrougier/python-opengl/) The goal of this book is to reconcile Python programmers with OpenGL, providing both an introduction to modern OpenGL and a set of basic and advanced techniques in order to achieve both fast, scalable & beautiful scientific visualizations.
 
 ![GitHub stars](https://img.shields.io/github/stars/rougier/scientific-visualization-book?style=social)
-![](https://img.shields.io/badge/Scientific_Python-Volume_II-orange?style=flat)
-![WIP](https://img.shields.io/badge/-WIP-red?style=flat)  
+![](https://img.shields.io/badge/Scientific_Python-Volume_II-orange?style=flat)  
 [**Scientific Visualization: Python & Matplotlib**](https://github.com/rougier/scientific-visualization-book) An open access book on scientific visualization using Python and Matplotlib to be released in 2020. Sources will be available, the PDF will be open-access and the printed book will cost 50$. You can [support](https://www.paypal.me/NicolasPRougier/25) the book or [sponsor me](https://github.com/sponsors/rougier).
 
 
