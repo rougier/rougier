@@ -15,7 +15,8 @@ reproducible science (I’ve co-founded <a href="https://rescience.github.io">Re
 wrote the article <a href="https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full">Transforming Code into Scientific Contribution</a>), scientific
 visualization (I’ve created <a href="https://glumpy.github.io">glumpy</a>, co-created <a href="http://vispy.org">VisPy</a> and authored the
 popular <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833">Ten Simple Rules for Better Figures</a> article), Science outreach
-(e.g. <a href="https://theconversation.com/silicon-soul-the-vain-dream-of-electronic-immortality-52368">The Conversation</a>) and computer graphics (especially <a href="https://fr.slideshare.net/NicolasRougier1/siggraph-2018-digital-typography">digital
+(e.g. <a href="https://theconversation.com/why-your-cat-is-lousy-at-chess-yet-way-smarter-than-even-the-most-advanced-ai-125581">
+Why your cat is lousy at chess?</a>) and computer graphics (especially <a href="https://fr.slideshare.net/NicolasRougier1/siggraph-2018-digital-typography">digital
 typography</a>).
 </p>
 <p align="right">
