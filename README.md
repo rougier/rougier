@@ -30,7 +30,7 @@ typography</a>).<br/><br/>
 
 ![GitHub stars](https://img.shields.io/github/stars/rougier/scientific-visualization-book?style=social)
 ![](https://img.shields.io/badge/Scientific_Python-Volume_II-orange?style=flat)  
-[**Scientific Visualization: Python & Matplotlib**](https://github.com/rougier/scientific-visualization-book) An open access book on scientific visualization using Python and Matplotlib to be released in 2020. Sources will be available, the PDF will be open-access and the printed book will cost 50$. You can [support](https://www.paypal.me/NicolasPRougier/25) the book or [sponsor me](https://github.com/sponsors/rougier).
+[**Scientific Visualization: Python & Matplotlib**](https://github.com/rougier/scientific-visualization-book) An open access book on scientific visualization using Python and Matplotlib to be released in 2020. Sources will be available, the PDF will be open-access and the printed book will cost 50$. You can [support](https://www.paypal.me/NicolasPRougier/25) the book or [sponsor me](https://github.com/sponsors/rougier) or **[nominate me](https://stars.github.com/nominate)**.
 
 
 
