@@ -7,10 +7,14 @@ You can [support](https://www.paypal.me/NicolasPRougier/25) my work,
 ---
 
 <p align="justify">
-<img src="book.png" width="22.5%" align="left"/>
-<img src="nano.png" width="22.5%" align="left"/>
-<img src="3d.png" width="22.5%" align="left"/>
-<img src="numpy.png" width="22.5%" align="left"/>
+<a href="https://github.com/rougier/scientific-visualization-book">
+    <img src="book.png" width="22.5%" align="left"/></a>
+<a href="https://github.com/rougier/nano-emacs">
+    <img src="nano.png" width="22.5%" align="left"/></a>
+<a href="https://github.com/rougier/matplotlib-3d">
+    <img src="3d.png" width="22.5%" align="left"/></a>
+<a href="https://www.labri.fr/perso/nrougier/from-python-to-numpy/">
+    <img src="numpy.png" width="22.5%" align="left"/></a>
 </p>
 
 <img width="100%"/>
