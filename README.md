@@ -23,9 +23,8 @@ or [nominate me](https://stars.github.com/nominate) (free).
 #### Some projects
 
 - **[Scientific Visualization: Python &
-   Matplotlib](https://github.com/rougier/scientific-visualization-book)**
-  is an open access book on scientific visualization using Python and
-  Matplotlib.
+   Matplotlib](https://github.com/rougier/scientific-visualization-book)** (WIP),
+  an book on scientific visualization using Python and Matplotlib.
 - **[GNU Emacs / N Λ N O](https://github.com/rougier/nano-emacs)** is a
   set of configuration files for GNU Emacs such as to provide a nice and
   consistent look and feel.
