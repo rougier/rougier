@@ -33,6 +33,6 @@ You can [support](https://www.paypal.me/NicolasPRougier/25) my work,
   versatile 3d axis for Matplotlib.
 - **[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)** is a open access book structured on the migration from Python to Numpy through vectorization.
 - **[100 Numpy Exercises](https://github.com/rougier/numpy-100)** is
-a collection  of 100 numpy exercises from numpy mailing list, stack overflow, and numpy documentation.
+a collection of exercises from numpy mailing list, stack overflow, and numpy documentation.
 - **[Glumpy](https://glumpy.github.io/)** is a python library for scientific visualization that is both fast, scalable and beautiful.
 - **[Matplotlib cheatsheets](https://github.com/matplotlib/cheatsheets)** are the official cheasheets that I designed. It is made of 2 cheat sheets and 2 handouts.
