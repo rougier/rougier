@@ -41,3 +41,4 @@ a collection of exercises from numpy mailing list, stack overflow, and numpy doc
 - **[Machine learning recipes](https://github.com/rougier/ML-Recipes)** Self-contained machine learning recipes in Python (neural networks, reinforcement learning)
 - **[C++ Crash course](https://github.com/rougier/CPP-Crash-Course)** is
 an introduction to C++ for C programmers.
+- **[Tiny 3D Renderder](https://github.com/rougier/tiny-renderer)** A soft 3D renderer in 100 lines of Python (only dependency is numpy).
