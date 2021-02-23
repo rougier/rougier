@@ -57,6 +57,6 @@ an introduction to C++ for C programmers.
 - **[Freetype GL](https://github.com/rougier/freetype-gl)**. A small
   library for displaying Unicode in OpenGL using a single texture and
   a single vertex buffer.
-- **[SVG tag mode](https://github.com/rougier/svg-tag-mode)**  A
+- **[SVG tag mode](https://github.com/rougier/svg-tag-mode)**  An Emacs
   minor mode to replace keywords or regular expression with SVG rounded box labels.
 - **[Git & GitHub course](https://github.com/rougier/URFIST-git-course)** A gentle introduction to git and GitHub.
