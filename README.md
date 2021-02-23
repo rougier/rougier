@@ -62,6 +62,7 @@ or [nominate me](https://stars.github.com/nominate) (free).
 - <img src="https://img.shields.io/github/stars/rougier/mu4e-dashboard?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Mu4e dashboard](https://github.com/rougier/mu4e-dashboard)** provides allows to organise mu4e queries into a dashboard by writing a regular org file.
 - <img src="https://img.shields.io/github/stars/rougier/mu4e-thread-folding?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Mu4e thread folding](https://github.com/rougier/mu4e-thread-folding)** is a small library that enable threads folding in mu4e using overlays.
 - <img src="https://img.shields.io/github/stars/rougier/agenda?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Org agenda](https://github.com/rougier/agenda)** gives an interactive view (whole year) of your agenda in the console.
+- <img src="https://img.shields.io/github/stars/rougier/emacs-gtd?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Get Things Done](https://github.com/rougier/emacs-gtd)** using org mode.
 
 
 #### Art... or Science
@@ -70,3 +71,21 @@ or [nominate me](https://stars.github.com/nominate) (free).
 - <img src="https://img.shields.io/github/stars/rougier/windmap?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Wind map](https://github.com/rougier/windmap)** Animated streamlines using matplotlib.
 - <img src="https://img.shields.io/github/stars/rougier/alien-life?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Alien life](https://github.com/rougier/alien-life)** A remake (using matplotlib) of the beaufitul animation by Necessary Disorder.
 - <img src="https://img.shields.io/github/stars/rougier/baby-gnu-tux?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Baby GNU & baby Tux](https://github.com/rougier/baby-gnu-tux)**. Original vector and 3D models of baby GNU and baby. 3D printer ready.
+
+
+#### Science
+
+
+
+
+- <a href="https://arxiv.org/abs/2011.09534"><img src="https://img.shields.io/badge/arXiv-2011.09534-lightgrey" align="right"/></a> **[Randomized self organizing map (2020)](https://github.com/rougier/VSOM)**
+- <a href="https://doi.org/10.5281/zenodo.3886628"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.3886628-lightgrey" align="right"/></a> **[Ten Years Reproducibility Challenge (2020)](https://github.com/rougier/TYRC-apple)**
+- <a href="https://doi.org/10.3389/fninf.2018.00012"><img src="https://img.shields.io/badge/DOI-10.3389%2Ffninf.2018.00012-lightgrey" align="right"/></a> **[A density driven for the placement of cells (2018)](https://github.com/rougier/density-driven)**
+- <a href="https://doi.org/10.1523/eneuro.0339-17.2018"><img src="https://img.shields.io/badge/DOI-10.1523%2Feneuro.0339--17.2018%20-lightgrey" align="right"/></a> **[A computational model of dual competition (2018)](https://github.com/rougier/one-critic-two-actors)**
+- <a href="https://doi.org/10.3389/fninf.2017.00069"><img src="https://img.shields.io/badge/DOI-0.3389%2Ffninf.2017.00069-lightgrey" align="right"/></a> **[Re-run, Repeat, Reproduce, Reuse, Replicate (2017)](https://github.com/rougier/random-walk)**
+- <a href="https://doi.org/10.1007/s00422-015-0660-8"><img src="https://img.shields.io/badge/DOI-10.1007%2Fs00422--015--0660--8-lightgrey" align="right"/></a> **[A parsimonious computational model of the superior colliculus (2015)](https://github.com/rougier/Superior-Colliculus)**
+- <a href="https://doi.org/10.1371/journal.pcbi.1003833"><img src="https://img.shields.io/badge/DOI-10.1371%2Fjournal.pcbi.1003833-lightgrey" align="right"/></a> **[Ten simple rules for better figures (2014)](https://github.com/rougier/ten-rules)**
+- <a href="https://doi.org/10.3109/0954898X.2012.721573"><img src="https://img.shields.io/badge/DOI-10.3109%2F0954898X.2012.721573-lightgrey" align="right"/></a> **[Distributed numerical and adaptive modelling framework (2012)](https://github.com/rougier/dana)**
+- <a href="https://doi.org/10.1016/j.neucom.2010.06.034"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.neucom.2010.06.034-lightgrey" align="right"/></a> **[Dynamic self-organising map (2011)](https://github.com/rougier/dynamic-som)**
+- <a href="https://doi.org/10.1103/physreve.82.055701"><img src="https://img.shields.io/badge/DOI-10.1103%2Fphysreve.82.055701-lightgrey" align="right"/></a> **[Activity spread and breathers in two-dimensional neural fields (2010)](https://github.com/rougier/delayed-neural-field)**
+
