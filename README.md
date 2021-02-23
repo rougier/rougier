@@ -46,6 +46,7 @@ or [nominate me](https://stars.github.com/nominate) (free).
 - **[Python & OpenGL for Scientific Visualization](https://www.labri.fr/perso/nrougier/python-opengl/)** is an open access book on modern GL using Python.
 - **[100 Numpy Exercises](https://github.com/rougier/numpy-100)** is
 a collection of exercises from numpy mailing list, stack overflow, and numpy documentation.
+- **[Computational Neuroscience course (beginner)](https://github.com/rougier/CNCC-2020)** A gentle introduction to computational neuroscience in Python.
 - **[Glumpy](https://glumpy.github.io/)** is a python library for scientific visualization that is both fast, scalable and beautiful.
 - **[Matplotlib cheatsheets](https://github.com/matplotlib/cheatsheets)** are the official cheasheets that I designed. It is made of 2 cheat sheets and 2 handouts
 - **[Machine learning recipes](https://github.com/rougier/ML-Recipes)** Self-contained machine learning recipes in Python (neural networks, reinforcement learning)
