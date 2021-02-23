@@ -22,13 +22,13 @@ or [nominate me](https://stars.github.com/nominate) (free).
 
 <p align="center">
 <a href="https://github.com/rougier/scientific-visualization-book">
-    <img src="book.png" width="22.5%"/></a>
+    <img src="book.png" width="24%"/></a>
 <a href="https://github.com/rougier/nano-emacs">
-    <img src="nano.png" width="22.5%"/></a>
+    <img src="nano.png" width="24%"/></a>
 <a href="https://github.com/rougier/matplotlib-3d">
-    <img src="3d.png" width="22.5%"/></a>
+    <img src="3d.png" width="24%"/></a>
 <a href="https://www.labri.fr/perso/nrougier/from-python-to-numpy/">
-    <img src="numpy.png" width="22.5%"/></a>
+    <img src="numpy.png" width="24%"/></a>
 </p>
 
 <img width="100%"/>
