@@ -34,18 +34,16 @@ or [nominate me](https://stars.github.com/nominate) (free).
 
 #### Open access books & journals
 - <img src="https://img.shields.io/github/stars/ReScience/ReScience?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[ReScience C](https://rescience.github.io/)** A scientific journal dedicated to the publication of computational replications that lives on GitHub.
-- <img src="https://img.shields.io/github/stars/rougier/scientific-visualization-book?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Scientific Visualization: Python & Matplotlib (WIP)](https://github.com/rougier/scientific-visualization-book)**,
-  an open access book on scientific visualization with Matplotlib.  
+- <img src="https://img.shields.io/github/stars/rougier/scientific-visualization-book?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Scientific Visualization: Python & Matplotlib (WIP)](https://github.com/rougier/scientific-visualization-book)**, an open access book on scientific visualization.  
 - <img src="https://img.shields.io/github/stars/rougier/from-python-to-numpy?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)** is a open access book on the migration from Python to Numpy through vectorization.
 - <img src="https://img.shields.io/github/stars/rougier/python-opengl?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Python & OpenGL for Scientific Visualization](https://www.labri.fr/perso/nrougier/python-opengl/)** is an open access book on modern GL using Python.
 
 #### Courses & tutorials
-- <img src="https://img.shields.io/github/stars/rougier/numpy-100?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[100 Numpy Exercises](https://github.com/rougier/numpy-100)** is
-a collection of exercises from numpy mailing list, stack overflow, and numpy documentation.
+- <img src="https://img.shields.io/github/stars/rougier/numpy-100?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[100 Numpy Exercises](https://github.com/rougier/numpy-100)** is a collection of 100 numpy exercises, from easy to hard.
 - <img src="https://img.shields.io/github/stars/rougier/CNCC-2020?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Computational Neuroscience course (beginner)](https://github.com/rougier/CNCC-2020)** A gentle introduction to computational neuroscience in Python.
 - <img src="https://img.shields.io/github/stars/rougier/CPP-Crash-Course?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[C++ Crash course](https://github.com/rougier/CPP-Crash-Course)** is an introduction to C++ for C programmers.
 - <img src="https://img.shields.io/github/stars/matplotlib/cheatsheets?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Matplotlib cheatsheets](https://github.com/matplotlib/cheatsheets)** are the official cheasheets that I designed. It is made of 2 cheat sheets and 2 handouts
-- <img src="https://img.shields.io/github/stars/rougier/ML-Recipes?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Machine learning recipes](https://github.com/rougier/ML-Recipes)** Self-contained machine learning recipes in Python (neural networks, reinforcement learning)
+- <img src="https://img.shields.io/github/stars/rougier/ML-Recipes?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Machine learning recipes](https://github.com/rougier/ML-Recipes)** Self-contained machine learning Python recipes.
 - <img src="https://img.shields.io/github/stars/rougier/URFIST-git-course?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Git & GitHub course](https://github.com/rougier/URFIST-git-course)** A gentle introduction to git and GitHub.
 - <img src="https://img.shields.io/github/stars/rougier/matplotlib-tutorial?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial)** A gentle tutorial on Matplotlib, the all-mighty visualization libray.
 
