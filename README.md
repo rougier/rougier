@@ -63,3 +63,10 @@ or [nominate me](https://stars.github.com/nominate) (free).
 - <img src="https://img.shields.io/github/stars/rougier/mu4e-thread-folding?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Mu4e thread folding](https://github.com/rougier/mu4e-thread-folding)** is a small library that enable threads folding in mu4e using overlays.
 - <img src="https://img.shields.io/github/stars/rougier/agenda?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Org agenda](https://github.com/rougier/agenda)** gives an interactive view (whole year) of your agenda in the console.
 
+
+#### Art... or Science
+- <img src="https://img.shields.io/github/stars/rougier/recursive-voronoi?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Recursive Voronoi](https://github.com/rougier/recursive-voronoi)** Recursive voronoi using shapely, matplotlib and scipy. 
+- <img src="https://img.shields.io/github/stars/rougier/pendulum?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Pendulum](https://github.com/rougier/pendulum)** Animated double pendulum using matplotlib.
+- <img src="https://img.shields.io/github/stars/rougier/windmap?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Wind map](https://github.com/rougier/windmap)** Animated streamlines using matplotlib.
+- <img src="https://img.shields.io/github/stars/rougier/alien-life?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Alien life](https://github.com/rougier/alien-life)** A remake (using matplotlib) of the beaufitul animation by Necessary Disorder.
+- <img src="https://img.shields.io/github/stars/rougier/baby-gnu-tux?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Baby GNU & baby Tux](https://github.com/rougier/baby-gnu-tux)**. Original vector and 3D models of baby GNU and baby. 3D printer ready.
