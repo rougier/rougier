@@ -32,33 +32,39 @@ or [nominate me](https://stars.github.com/nominate) (free).
     <img src="numpy.png" width="24%"/></a>
 </p>
 
-#### Some projects
-
-- **[Scientific Visualization: Python &
-   Matplotlib (WIP)](https://github.com/rougier/scientific-visualization-book)**,
-  an open access book on scientific visualization with Matplotlib.  
+#### Open access books & journals
 - **[ReScience C](https://rescience.github.io/)** A scientific journal dedicated to the publication of computational replications that lives on GitHub.
-- **[GNU Emacs / N Λ N O](https://github.com/rougier/nano-emacs)** is a
-  set of configuration files for GNU Emacs such as to provide a nice and
-  consistent look and feel.
-- **[Matplotlib 3D](https://github.com/rougier/matplotlib-3d)** is an
-  experimental project whose aim is to provide a better and more
-  versatile 3d axis for Matplotlib.
+- **[Scientific Visualization: Python & Matplotlib (WIP)](https://github.com/rougier/scientific-visualization-book)**,
+  an open access book on scientific visualization with Matplotlib.  
 - **[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)** is a open access book structured on the migration from Python to Numpy through vectorization.
 - **[Python & OpenGL for Scientific Visualization](https://www.labri.fr/perso/nrougier/python-opengl/)** is an open access book on modern GL using Python.
+
+#### Courses & tutorials
 - **[100 Numpy Exercises](https://github.com/rougier/numpy-100)** is
 a collection of exercises from numpy mailing list, stack overflow, and numpy documentation.
 - **[Computational Neuroscience course (beginner)](https://github.com/rougier/CNCC-2020)** A gentle introduction to computational neuroscience in Python.
-- **[Glumpy](https://glumpy.github.io/)** is a python library for scientific visualization that is both fast, scalable and beautiful.
-- **[Matplotlib cheatsheets](https://github.com/matplotlib/cheatsheets)** are the official cheasheets that I designed. It is made of 2 cheat sheets and 2 handouts
-- **[Machine learning recipes](https://github.com/rougier/ML-Recipes)** Self-contained machine learning recipes in Python (neural networks, reinforcement learning)
 - **[C++ Crash course](https://github.com/rougier/CPP-Crash-Course)** is
 an introduction to C++ for C programmers.
+- **[Matplotlib cheatsheets](https://github.com/matplotlib/cheatsheets)** are the official cheasheets that I designed. It is made of 2 cheat sheets and 2 handouts
+- **[Machine learning recipes](https://github.com/rougier/ML-Recipes)** Self-contained machine learning recipes in Python (neural networks, reinforcement learning)
+- **[Git & GitHub course](https://github.com/rougier/URFIST-git-course)** A gentle introduction to git and GitHub.
+- **[Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial)** A gentle tutorial on Matplotlib, the all-mighty visualization libray.
+
+#### Development
+- **[Glumpy](https://glumpy.github.io/)** is a python library for scientific visualization that is both fast, scalable and beautiful.
+- **[Matplotlib 3D](https://github.com/rougier/matplotlib-3d)** is an experimental project whose aim is to provide a better and more versatile 3d axis for Matplotlib.
 - **[Tiny 3D Renderer](https://github.com/rougier/tiny-renderer)** A soft 3D renderer in 100 lines of Python (only dependency is numpy).
 - **[Freetype Python](https://github.com/rougier/freetype-py)** provides bindings for the FreeType library (only the high-level API is bound).
-- **[Freetype GL](https://github.com/rougier/freetype-gl)**. A small
-  library for displaying Unicode in OpenGL using a single texture and
+- **[Freetype GL](https://github.com/rougier/freetype-gl)**. A small library for displaying Unicode in OpenGL using a single texture and
   a single vertex buffer.
+
+#### Emacs hacking
+- **[GNU Emacs / N Λ N O](https://github.com/rougier/nano-emacs)** is a
+  set of configuration files for GNU Emacs such as to provide a nice and
+  consistent look and feel.
 - **[SVG tag mode](https://github.com/rougier/svg-tag-mode)**  An Emacs
   minor mode to replace keywords or regular expression with SVG rounded box labels.
-- **[Git & GitHub course](https://github.com/rougier/URFIST-git-course)** A gentle introduction to git and GitHub.
+- **[Mu4e dashboard](https://github.com/rougier/mu4e-dashboard)** provides allows to organise mu4e queries into a dashboard by writing a regular org file.
+- **[Mu4e thread folding](https://github.com/rougier/mu4e-thread-folding)** is a small library that enable threads folding in mu4e using overlays.
+- **[Org agenda](https://github.com/rougier/agenda)** gives an interactive view (whole yer) of your agenda in the console.
+
