@@ -53,7 +53,10 @@ a collection of exercises from numpy mailing list, stack overflow, and numpy doc
 - **[C++ Crash course](https://github.com/rougier/CPP-Crash-Course)** is
 an introduction to C++ for C programmers.
 - **[Tiny 3D Renderer](https://github.com/rougier/tiny-renderer)** A soft 3D renderer in 100 lines of Python (only dependency is numpy).
-- **[Freetype python](https://github.com/rougier/freetype-py)** provides bindings for the FreeType library (only the high-level API is bound).
-- **[Freetype GL](https://github.com/rougier/freetype-gl)** is a small
+- **[Freetype Python](https://github.com/rougier/freetype-py)** provides bindings for the FreeType library (only the high-level API is bound).
+- **[Freetype GL](https://github.com/rougier/freetype-gl)**. A small
   library for displaying Unicode in OpenGL using a single texture and
   a single vertex buffer.
+- **[SVG tag mode](https://github.com/rougier/svg-tag-mode)**  A
+  minor mode to replace keywords or regular expression with SVG rounded box labels.
+- **[Git & GitHub course](https://github.com/rougier/URFIST-git-course)** A gentle introduction to git and GitHub.
