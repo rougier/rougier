@@ -75,9 +75,7 @@ or [nominate me](https://stars.github.com/nominate) (free).
 
 #### Science
 
-
-
-
+- <a href="https://doi.org/10.1186/s13408-020-00097-6"><img src="https://img.shields.io/badge/DOI-10.1186%2Fs13408--020--00097--6-lightgrey" align="right"/></a> **[Stability analysis of a neural field self-organizing map (2020)](https://github.com/rougier/som_stability)**
 - <a href="https://arxiv.org/abs/2011.09534"><img src="https://img.shields.io/badge/arXiv-2011.09534-lightgrey" align="right"/></a> **[Randomized self organizing map (2020)](https://github.com/rougier/VSOM)**
 - <a href="https://doi.org/10.5281/zenodo.3886628"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.3886628-lightgrey" align="right"/></a> **[Ten Years Reproducibility Challenge (2020)](https://github.com/rougier/TYRC-apple)**
 - <a href="https://doi.org/10.3389/fninf.2018.00012"><img src="https://img.shields.io/badge/DOI-10.3389%2Ffninf.2018.00012-lightgrey" align="right"/></a> **[A density driven for the placement of cells (2018)](https://github.com/rougier/density-driven)**
