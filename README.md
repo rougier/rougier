@@ -1,6 +1,4 @@
 
----
-
 You can [support](https://www.paypal.me/NicolasPRougier/10) my work
 (PayPal), [sponsor me](https://github.com/sponsors/rougier) (GitHub)
 or [nominate me](https://stars.github.com/nominate) (free).
