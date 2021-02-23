@@ -6,7 +6,6 @@ You can [support](https://www.paypal.me/NicolasPRougier/10) my work
 or [nominate me](https://stars.github.com/nominate) (free).
 
 [![](https://img.shields.io/github/followers/rougier?label=Followers&style=social)](https://github.com/rougier)
-[![](https://img.shields.io/github/sponsors/rougier?style=social)](https://github.com/sponsors/rougier)
 [![](https://img.shields.io/github/stars/rougier?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/rougier)
 [![](https://img.shields.io/twitter/follow/NPRougier?label=Followers)](https://twitter.com/nprougier?lang=en)
 [![](https://img.shields.io/reddit/user-karma/combined/Nicolas-Rougier?style=social&label=Karma)](https://www.reddit.com/user/Nicolas-Rougier/submitted/?sort=top)
