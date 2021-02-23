@@ -61,5 +61,5 @@ or [nominate me](https://stars.github.com/nominate) (free).
   minor mode to replace keywords or regular expression with SVG rounded box labels.
 - <img src="https://img.shields.io/github/stars/rougier/mu4e-dashboard?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Mu4e dashboard](https://github.com/rougier/mu4e-dashboard)** provides allows to organise mu4e queries into a dashboard by writing a regular org file.
 - <img src="https://img.shields.io/github/stars/rougier/mu4e-thread-folding?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Mu4e thread folding](https://github.com/rougier/mu4e-thread-folding)** is a small library that enable threads folding in mu4e using overlays.
-- <img src="https://img.shields.io/github/stars/rougier/agenda?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Org agenda](https://github.com/rougier/agenda)** gives an interactive view (whole yer) of your agenda in the console.
+- <img src="https://img.shields.io/github/stars/rougier/agenda?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Org agenda](https://github.com/rougier/agenda)** gives an interactive view (whole year) of your agenda in the console.
 
