@@ -17,6 +17,7 @@ or [nominate me](https://stars.github.com/nominate) (free).
 [![](https://img.shields.io/badge/paypal-$1-yellow?style=flat-square&label=)](https://github.com/sponsors/rougier)
 [![](https://img.shields.io/badge/paypal-$5-orange?style=flat-square&label=)](https://github.com/sponsors/rougier)
 [![](https://img.shields.io/badge/paypal-$10-red?style=flat-square&label=)](https://github.com/sponsors/rougier)
+/ mo
 
 ---
 
