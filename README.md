@@ -31,8 +31,6 @@ or [nominate me](https://stars.github.com/nominate) (free).
     <img src="numpy.png" width="24%"/></a>
 </p>
 
-<img width="100%"/>
-
 #### Some projects
 
 - **[Scientific Visualization: Python &
