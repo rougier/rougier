@@ -75,6 +75,7 @@ or [nominate me](https://stars.github.com/nominate) (free).
 
 #### Science
 
+- <a href="https://doi.org/10.1098/rstb.2019.0668"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-lightgrey" align="right"/></a> **[The adaptive value of probability distortion and risk-seeking (2021)](https://github.com/aureliennioche/EvoProspect)**
 - <a href="https://arxiv.org/abs/2011.09534"><img src="https://img.shields.io/badge/arXiv-2011.09534-lightgrey" align="right"/></a> **[Randomized self organizing map (2020)](https://github.com/rougier/VSOM)**
 - <a href="https://doi.org/10.1186/s13408-020-00097-6"><img src="https://img.shields.io/badge/DOI-10.1186%2Fs13408--020--00097--6-lightgrey" align="right"/></a> **[Stability analysis of a neural field self-organizing map (2020)](https://github.com/rougier/som_stability)**
 - <a href="https://doi.org/10.1162/neco_a_01249"><img src="https://img.shields.io/badge/DOI-10.1162%2Fneco__a__01249-lightgrey" align="right"/></a> **[A Robust Model of Gated Working Memory (2020)](https://github.com/rougier/ESN-WM)**
