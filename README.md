@@ -57,7 +57,8 @@ or [nominate me](https://stars.github.com/nominate) (free).
 - <img src="https://img.shields.io/github/stars/rougier/freetype-gl?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/>**[Freetype GL](https://github.com/rougier/freetype-gl)** to display Unicode text in OpenGL using a single texture and a single vertex buffer.
 
 #### Emacs hacking
-- <img src="https://img.shields.io/github/stars/rougier/nano-emacs?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[GNU Emacs / N Λ N O](https://github.com/rougier/nano-emacs)** A nice and consistent look and feel for GNU Emacs, the true editor.
+- <img src="https://img.shields.io/github/stars/rougier/nano-emacs?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Emacs / N Λ N O](https://github.com/rougier/nano-emacs)** A nice and consistent look and feel for GNU Emacs, the true editor.
+- <img src="https://img.shields.io/github/stars/rougier/elegant-emacs?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Elegant Emacs](https://github.com/rougier/elegant-emacs)** A very minimal but elegant emacs (I think). 
 - <img src="https://img.shields.io/github/stars/rougier/svg-tag-mode?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[SVG tag mode](https://github.com/rougier/svg-tag-mode)**  An Emacs
   minor mode to replace keywords or (regex) with SVG rounded box labels.
 - <img src="https://img.shields.io/github/stars/rougier/mu4e-dashboard?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Mu4e dashboard](https://github.com/rougier/mu4e-dashboard)** allows to organise mu4e queries into a dashboard by writing a regular org file.
