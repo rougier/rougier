@@ -75,6 +75,7 @@ or [nominate me](https://stars.github.com/nominate) (free).
 - <img src="https://img.shields.io/github/stars/rougier/calendar-heatmap?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Calendar heatmap](https://github.com/rougier/calendar-heatmap)** Display your yearly GitHub activity using matplotlib.
 - <img src="https://img.shields.io/github/stars/rougier/less-is-more?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Less is More](https://github.com/rougier/less-is-more)** A remake of the animation by Darkhorse Analytics (using matplotlib, what else?).
 - <img src="https://img.shields.io/github/stars/rougier/baby-gnu-tux?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Baby GNU & baby Tux](https://github.com/rougier/baby-gnu-tux)**. Original vector and 3D models of baby GNU and baby. 3D printer ready.
+- <img src="https://img.shields.io/github/stars/rougier/open-heroes?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Open Heroes](https://github.com/rougier/open-heroes)**. Some people that facilitate science, one way or the other.
 
 
 #### Science
