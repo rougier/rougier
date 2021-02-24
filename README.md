@@ -70,7 +70,7 @@ or [nominate me](https://stars.github.com/nominate) (free).
 - <img src="https://img.shields.io/github/stars/rougier/pendulum?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Pendulum](https://github.com/rougier/pendulum)** Animated double pendulum using matplotlib.
 - <img src="https://img.shields.io/github/stars/rougier/windmap?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Wind map](https://github.com/rougier/windmap)** Animated streamlines using matplotlib.
 - <img src="https://img.shields.io/github/stars/rougier/alien-life?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Alien life](https://github.com/rougier/alien-life)** A remake (using matplotlib) of the beaufitul animation by Necessary Disorder.
-- <img src"https://img.shields.io/github/stars/rougier/less-is-more?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Less is More](https://github.com/rougier/less-is-more)**. A remake of the animation by Darkhorse Analytics (using matplotlib, what else?).
+- <img src="https://img.shields.io/github/stars/rougier/less-is-more?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Less is More](https://github.com/rougier/less-is-more)** A remake of the animation by Darkhorse Analytics (using matplotlib, what else?).
 - <img src="https://img.shields.io/github/stars/rougier/baby-gnu-tux?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Baby GNU & baby Tux](https://github.com/rougier/baby-gnu-tux)**. Original vector and 3D models of baby GNU and baby. 3D printer ready.
 
 
