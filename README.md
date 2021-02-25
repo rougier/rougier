@@ -1,9 +1,51 @@
-
-| [![](https://raw.githubusercontent.com/rougier/rougier/master/img/file-text.svg) Homepage](https://www.labri.fr/perso/nrougier) | [![](https://raw.githubusercontent.com/rougier/rougier/master/img/twitter.svg) Twitter](https://twitter.com/NPRougier) | [![](https://raw.githubusercontent.com/rougier/rougier/master/img/github.svg) Github](https://github.com/rougier) | [![](https://raw.githubusercontent.com/rougier/rougier/master/img/github.svg) Gist](https://gist.github.com/rougier) | [![](https://raw.githubusercontent.com/rougier/rougier/master/img/reddit.svg) Reddit](https://www.reddit.com/user/Nicolas-Rougier/submitted/?sort=top) | [![](https://raw.githubusercontent.com/rougier/rougier/master/img/stack.svg) Stackoverflow](https://stackoverflow.com/users/3348261/nicolas-rougier) | [![](https://raw.githubusercontent.com/rougier/rougier/master/img/shadertoy.svg) Shadertoy](https://www.shadertoy.com/user/rougier) |
-|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-
-
-----
+<table align="center">
+  <thead>
+    <tr>
+      <th>
+        <a href="https://www.labri.fr/perso/nrougier" rel="nofollow">
+          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/file-text.svg" alt="" style="max-width:100%;">
+          Homepage
+        </a>
+      </th>
+      <th>
+        <a href="https://twitter.com/NPRougier" rel="nofollow">
+          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/twitter.svg" alt="" style="max-width:100%;">
+          Twitter
+        </a>
+      </th>
+      <th>
+        <a href="https://github.com/rougier">
+          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/github.svg" alt="" style="max-width:100%;">
+          Github
+        </a>
+      </th>
+      <th>
+        <a href="https://gist.github.com/rougier">
+          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/github.svg" alt="" style="max-width:100%;">
+          Gist
+        </a>
+      </th>
+      <th>
+        <a href="https://www.reddit.com/user/Nicolas-Rougier/submitted/?sort=top" rel="nofollow">
+          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/reddit.svg" alt="" style="max-width:100%;">
+          Reddit
+        </a>
+      </th>
+      <th>
+        <a href="https://stackoverflow.com/users/3348261/nicolas-rougier" rel="nofollow">
+          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/stack.svg" alt="" style="max-width:100%;">
+          Stackoverflow
+        </a>
+      </th>
+      <th>
+        <a href="https://www.shadertoy.com/user/rougier" rel="nofollow">
+          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/shadertoy.svg" alt="" style="max-width:100%;">
+          Shadertoy
+        </a>
+      </th>
+    </tr>
+  </thead>
+</table>
 
 <p align="center">
 <a href="https://github.com/rougier/scientific-visualization-book">
