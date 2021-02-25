@@ -1,3 +1,4 @@
+<br/>
 <table align="center">
   <thead>
     <tr>
@@ -46,6 +47,7 @@
     </tr>
   </thead>
 </table>
+<br/>
 
 <p align="center">
 <a href="https://github.com/rougier/scientific-visualization-book">
