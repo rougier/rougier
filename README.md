@@ -49,8 +49,6 @@ or [nominate me](https://stars.github.com/nominate) (free).
 - <img src="https://img.shields.io/github/stars/rougier/numpy-tutorial?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Numpy tutorial](https://github.com/rougier/numpy-tutorial)** An introduction to Numpy for beginners.
 
 
-https://github.com/rougier/numpy-tutorial
-
 #### Development
 - <img src="https://img.shields.io/github/stars/rougier/ML-Recipes?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Machine learning recipes](https://github.com/rougier/ML-Recipes)** Self-contained machine learning Python recipes.
 - <img src="https://img.shields.io/github/stars/glumpy/glumpy?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Glumpy](https://glumpy.github.io/)** is a python library for scientific visualization that is both fast, scalable and beautiful.
