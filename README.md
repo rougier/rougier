@@ -1,12 +1,29 @@
+
+| [![](https://raw.githubusercontent.com/rougier/rougier/master/img/file-text.svg) Homepage](https://www.labri.fr/perso/nrougier) | [![](https://raw.githubusercontent.com/rougier/rougier/master/img/twitter.svg) Twitter](https://twitter.com/NPRougier) | [![](https://raw.githubusercontent.com/rougier/rougier/master/img/github.svg) Github](https://github.com/rougier) | [![](https://raw.githubusercontent.com/rougier/rougier/master/img/reddit.svg) Reddit](https://www.reddit.com/user/Nicolas-Rougier/submitted/?sort=top) |
+|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+
+<details>
+<summary>
+<img src="https://raw.githubusercontent.com/rougier/rougier/master/img/heart.svg"/>
+Please consider sponsoring my work.&nbsp;&nbsp;<em>Thank you!</em>
+</summary>
+<ul>
+<li><a href="https://github.com/sponsors/rougier">Github Sponsors</a></li>
+<li><a href="https://www.paypal.me/NicolasPRougier/25">PayPal</a></li>
+</ul>
+</details>
+
+----
+
 <p align="center">
 <a href="https://github.com/rougier/scientific-visualization-book">
-    <img src="book.png" width="24%"/></a>
+    <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/book.png" width="24%"/></a>
 <a href="https://github.com/rougier/nano-emacs">
-    <img src="nano.png" width="24%"/></a>
+    <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/nano.png" width="24%"/></a>
 <a href="https://github.com/rougier/matplotlib-3d">
-    <img src="3d.png" width="24%"/></a>
+    <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/3d.png" width="24%"/></a>
 <a href="https://www.labri.fr/perso/nrougier/from-python-to-numpy/">
-    <img src="numpy.png" width="24%"/></a>
+    <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/numpy.png" width="24%"/></a>
 </p>
 
 #### Open access books & journals
@@ -77,24 +94,3 @@
 - <a href="https://doi.org/10.1016/j.neucom.2010.06.034"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.neucom.2010.06.034-lightgrey" align="right"/></a> **[Dynamic self-organising map (2011)](https://github.com/rougier/dynamic-som)**
 - <a href="https://doi.org/10.1103/physreve.82.055701"><img src="https://img.shields.io/badge/DOI-10.1103%2Fphysreve.82.055701-lightgrey" align="right"/></a> **[Activity spread and breathers in two-dimensional neural fields (2010)](https://github.com/rougier/delayed-neural-field)**
 
----
-
-You can [support](https://www.paypal.me/NicolasPRougier/10) my work
-(PayPal), [sponsor me](https://github.com/sponsors/rougier) (GitHub)
-or [nominate me](https://stars.github.com/nominate) (free).
-
-[![](https://img.shields.io/github/followers/rougier?label=Followers&style=social)](https://github.com/rougier)
-[![](https://img.shields.io/github/stars/rougier?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/rougier)
-[![](https://img.shields.io/twitter/follow/NPRougier?label=Followers)](https://twitter.com/nprougier?lang=en)
-[![](https://img.shields.io/reddit/user-karma/combined/Nicolas-Rougier?style=social&label=Karma)](https://www.reddit.com/user/Nicolas-Rougier/submitted/?sort=top)
-![](https://img.shields.io/badge/-—-yellow?style=flat-square&color=white)
-![](https://img.shields.io/badge/-Support-yellow?style=flat-square&color=f0f0f0&logo=paypal)
-[![](https://img.shields.io/badge/paypal-$5-yellow?style=flat-square&label=)](https://www.paypal.me/NicolasPRougier/5)
-[![](https://img.shields.io/badge/paypal-$10-orange?style=flat-square&label=)](https://www.paypal.me/NicolasPRougier/10)
-[![](https://img.shields.io/badge/paypal-$25-red?style=flat-square&label=)](https://www.paypal.me/NicolasPRougier/25)
-![](https://img.shields.io/badge/-—-yellow?style=flat-square&color=white)
-![](https://img.shields.io/badge/-Sponsor-yellow?style=flat-square&color=f0f0f0&logo=github&logoColor=000000)
-[![](https://img.shields.io/badge/paypal-$1-yellow?style=flat-square&label=)](https://github.com/sponsors/rougier)
-[![](https://img.shields.io/badge/paypal-$5-orange?style=flat-square&label=)](https://github.com/sponsors/rougier)
-[![](https://img.shields.io/badge/paypal-$10-red?style=flat-square&label=)](https://github.com/sponsors/rougier)
-/ mo
