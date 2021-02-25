@@ -5,7 +5,7 @@
 <details>
 <summary>
 <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/heart.svg"/>
-Please consider sponsoring my work.&nbsp;&nbsp;<em>Thank you!</em>
+Please consider sponsoring my work. Thank you!
 </summary>
 <ul>
 <li><a href="https://github.com/sponsors/rougier">Github Sponsors</a></li>
