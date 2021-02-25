@@ -46,7 +46,7 @@ or [nominate me](https://stars.github.com/nominate) (free).
 - <img src="https://img.shields.io/github/stars/matplotlib/cheatsheets?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Matplotlib cheatsheets](https://github.com/matplotlib/cheatsheets)** are the official cheasheets (+ 2 handouts) that I designed..
 - <img src="https://img.shields.io/github/stars/rougier/URFIST-git-course?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Git & GitHub course](https://github.com/rougier/URFIST-git-course)** A gentle introduction to git and GitHub.
 - <img src="https://img.shields.io/github/stars/rougier/matplotlib-tutorial?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial)** A gentle tutorial on Matplotlib, the all-mighty visualization libray.
-- <img src="https://img.shields.io/github/stars/rougier/numpy-tutorial?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Matplotlib tutorial](https://github.com/rougier/numpy-tutorial)** An introduction to Numpy for beginners.
+- <img src="https://img.shields.io/github/stars/rougier/numpy-tutorial?color=ffffff&labelColor=white&label=%E2%98%86&style=flat-square" align="right"/> **[Numpy tutorial](https://github.com/rougier/numpy-tutorial)** An introduction to Numpy for beginners.
 
 
 https://github.com/rougier/numpy-tutorial
