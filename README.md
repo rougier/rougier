@@ -2,16 +2,6 @@
 | [![](https://raw.githubusercontent.com/rougier/rougier/master/img/file-text.svg) Homepage](https://www.labri.fr/perso/nrougier) | [![](https://raw.githubusercontent.com/rougier/rougier/master/img/twitter.svg) Twitter](https://twitter.com/NPRougier) | [![](https://raw.githubusercontent.com/rougier/rougier/master/img/github.svg) Github](https://github.com/rougier) | [![](https://raw.githubusercontent.com/rougier/rougier/master/img/github.svg) Gist](https://gist.github.com/rougier) | [![](https://raw.githubusercontent.com/rougier/rougier/master/img/reddit.svg) Reddit](https://www.reddit.com/user/Nicolas-Rougier/submitted/?sort=top) | [![](https://raw.githubusercontent.com/rougier/rougier/master/img/stack.svg) Stackoverflow](https://stackoverflow.com/users/3348261/nicolas-rougier) | [![](https://raw.githubusercontent.com/rougier/rougier/master/img/shadertoy.svg) Shadertoy](https://www.shadertoy.com/user/rougier) |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 
-<details>
-<summary>
-<img src="https://raw.githubusercontent.com/rougier/rougier/master/img/heart.svg"/>
-Please consider sponsoring my work. Thank you!
-</summary>
-<ul>
-<li><a href="https://github.com/sponsors/rougier">Github Sponsors</a></li>
-<li><a href="https://www.paypal.me/NicolasPRougier/25">PayPal</a></li>
-</ul>
-</details>
 
 ----
 
