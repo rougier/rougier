@@ -4,43 +4,43 @@
     <tr>
       <th>
         <a href="https://www.labri.fr/perso/nrougier" rel="nofollow">
-          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/file-text.svg" alt="" style="max-width:100%;">
+          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/file-text.svg">
           Homepage
         </a>
       </th>
       <th>
         <a href="https://twitter.com/NPRougier" rel="nofollow">
-          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/twitter.svg" alt="" style="max-width:100%;">
+          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/twitter.svg">
           Twitter
         </a>
       </th>
       <th>
         <a href="https://github.com/rougier">
-          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/github.svg" alt="" style="max-width:100%;">
+          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/github.svg">
           Github
         </a>
       </th>
       <th>
         <a href="https://gist.github.com/rougier">
-          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/github.svg" alt="" style="max-width:100%;">
+          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/github.svg">
           Gist
         </a>
       </th>
       <th>
         <a href="https://www.reddit.com/user/Nicolas-Rougier/submitted/?sort=top" rel="nofollow">
-          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/reddit.svg" alt="" style="max-width:100%;">
+          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/reddit.svg">
           Reddit
         </a>
       </th>
       <th>
         <a href="https://stackoverflow.com/users/3348261/nicolas-rougier" rel="nofollow">
-          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/stack.svg" alt="" style="max-width:100%;">
+          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/stack.svg">
           Stackoverflow
         </a>
       </th>
       <th>
         <a href="https://www.shadertoy.com/user/rougier" rel="nofollow">
-          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/shadertoy.svg" alt="" style="max-width:100%;">
+          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/shadertoy.svg">
           Shadertoy
         </a>
       </th>
@@ -51,7 +51,7 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rougier/rougier/master/img/heart.svg"/> Consider <a href="https://github.com/sponsors/rougier">supporting</a> my upcoming <a href="https://github.com/rougier/scientific-visualization-book">book</a> (Summer 2021). Thank you.</p><br/>
+→ Consider <a href="https://github.com/sponsors/rougier">supporting</a> my upcoming <a href="https://github.com/rougier/scientific-visualization-book">book</a>. Thank you!</p><br/>
 
 <p align="center">
 <a href="https://github.com/rougier/scientific-visualization-book">
