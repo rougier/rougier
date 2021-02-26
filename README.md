@@ -81,7 +81,7 @@
 - **[Freetype GL](https://github.com/rougier/freetype-gl)** to display Unicode text in OpenGL using a single texture and a single vertex buffer.
 
 #### Emacs hacking
-<img src="https://raw.githubusercontent.com/rougier/rougier/master/img/nano-emacs-dark.png" width="15%"><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/nano-emacs-light.png" width="15%"><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-0.png" width="15%"/><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-2.png" width="15%"/><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-6.png" width="15%"/><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-9.png" width="15%"/>
+<img src="https://raw.githubusercontent.com/rougier/rougier/master/img/nano-emacs-dark.png" width="20%"><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/nano-emacs-light.png" width="20%"><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-0.png" width="20%"/><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-6.png" width="20%"/><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-9.png" width="20%"/>
 
 - **[Emacs / N Λ N O](https://github.com/rougier/nano-emacs)** A nice and consistent look and feel for GNU Emacs, the true editor.
 - **[Elegant Emacs](https://github.com/rougier/elegant-emacs)** A very minimal but elegant emacs (I think). 
