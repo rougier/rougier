@@ -81,6 +81,9 @@
 - **[Freetype GL](https://github.com/rougier/freetype-gl)** to display Unicode text in OpenGL using a single texture and a single vertex buffer.
 
 #### Emacs hacking
+
+<img src="img/screenshot-0.png" width="15%"/><img src="img/screenshot-1.png" width="15%"/><img src="img/screenshot-2.png" width="15%"/><img src="img/screenshot-4.png" width="15%"><img src="img/screenshot-6.png" width="15%"/><img src="img/screenshot-9.png" width="15%"/>
+
 - **[Emacs / N Λ N O](https://github.com/rougier/nano-emacs)** A nice and consistent look and feel for GNU Emacs, the true editor.
 - **[Elegant Emacs](https://github.com/rougier/elegant-emacs)** A very minimal but elegant emacs (I think). 
 - **[SVG tag mode](https://github.com/rougier/svg-tag-mode)**  An Emacs
