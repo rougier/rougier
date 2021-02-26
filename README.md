@@ -52,7 +52,7 @@
 
 <p align="center">
 → Consider <a href="https://github.com/sponsors/rougier">supporting</a> my upcoming <a href="https://github.com/rougier/scientific-visualization-book">book</a>. Thank you!</p>
-<img src="https://raw.githubusercontent.com/rougier/rougier/master/img/book-art.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/rougier/rougier/master/img/book.png" width="100%"/>
 
 
 #### Open access books & journals
