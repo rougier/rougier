@@ -47,8 +47,6 @@
     </tr>
   </thead>
 </table>
-<br/>
-
 
 <p align="center">
 → Consider <a href="https://github.com/sponsors/rougier">supporting</a> my upcoming <a href="https://github.com/rougier/scientific-visualization-book">book</a>. Thank you!</p>
