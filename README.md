@@ -51,7 +51,7 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rougier/rougier/master/img/heart.svg"/> Consider <a href="https://github.com/sponsors/rougier">supporting</a> my upcoming <a href="https://github.com/rougier/scientific-visualization-book">book</a>. Thank you.</p><br/>
+<img src="https://raw.githubusercontent.com/rougier/rougier/master/img/heart.svg"/> Consider <a href="https://github.com/sponsors/rougier">supporting</a> my upcoming <a href="https://github.com/rougier/scientific-visualization-book">book</a> (Summer 2021). Thank you.</p><br/>
 
 <p align="center">
 <a href="https://github.com/rougier/scientific-visualization-book">
