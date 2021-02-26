@@ -51,18 +51,9 @@
 
 
 <p align="center">
-→ Consider <a href="https://github.com/sponsors/rougier">supporting</a> my upcoming <a href="https://github.com/rougier/scientific-visualization-book">book</a>. Thank you!</p><br/>
+→ Consider <a href="https://github.com/sponsors/rougier">supporting</a> my upcoming <a href="https://github.com/rougier/scientific-visualization-book">book</a>. Thank you!</p>
+<img src="https://raw.githubusercontent.com/rougier/rougier/master/img/book-art.png" width="100%"/>
 
-<p align="center">
-<a href="https://github.com/rougier/scientific-visualization-book">
-    <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/book.png" width="24%"/></a>
-<a href="https://github.com/rougier/nano-emacs">
-    <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/nano.png" width="24%"/></a>
-<a href="https://github.com/rougier/matplotlib-3d">
-    <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/3d.png" width="24%"/></a>
-<a href="https://www.labri.fr/perso/nrougier/from-python-to-numpy/">
-    <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/numpy.png" width="24%"/></a>
-</p>
 
 #### Open access books & journals
 - **[ReScience C](https://rescience.github.io/)** A scientific journal dedicated to the publication of computational replications that lives on GitHub.
