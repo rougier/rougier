@@ -1,62 +1,11 @@
-<br/>
-<table align="center">
-  <thead>
-    <tr>
-      <th>
-        <a href="https://www.labri.fr/perso/nrougier" rel="nofollow">
-          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/file-text.svg">
-          Homepage
-        </a>
-      </th>
-      <th>
-        <a href="https://twitter.com/NPRougier" rel="nofollow">
-          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/twitter.svg">
-          Twitter
-        </a>
-      </th>
-      <th>
-        <a href="https://github.com/rougier">
-          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/github.svg">
-          Github
-        </a>
-      </th>
-      <th>
-        <a href="https://gist.github.com/rougier">
-          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/github.svg">
-          Gist
-        </a>
-      </th>
-      <th>
-        <a href="https://www.reddit.com/user/Nicolas-Rougier/submitted/?sort=top" rel="nofollow">
-          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/reddit.svg">
-          Reddit
-        </a>
-      </th>
-      <th>
-        <a href="https://stackoverflow.com/users/3348261/nicolas-rougier" rel="nofollow">
-          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/stack.svg">
-          Stackoverflow
-        </a>
-      </th>
-      <th>
-        <a href="https://www.slideshare.net/NicolasRougier1" rel="nofollow">
-          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/slideshare.svg">
-          Slideshare
-        </a>
-      </th>
-      <th>
-        <a href="https://www.shadertoy.com/user/rougier" rel="nofollow">
-          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/shadertoy.svg">
-          Shadertoy
-        </a>
-      </th>
-    </tr>
-  </thead>
-</table>
+<p><pre align="center">
+<strong>Nicolas P. Rougier /</strong> <a href="https://www.labri.fr/perso/nrougier">Homepage</a> / <a href="https://twitter.com/NPRougier">Twitter</a> / <a href="https://www.reddit.com/user/Nicolas-Rougier/submitted/?sort=top">Reddit</a> / <a href="https://github.com/rougier">GitHub</a> / <a href="https://gist.github.com/rougier">Gist</a> / <a href="https://stackoverflow.com/users/3348261/nicolas-rougier">Stackoveflow</a> / <a href="https://www.slideshare.net/NicolasRougier1">Slideshare</a> / <a href="https://www.shadertoy.com/user/rougier">Shadertoy</a></pre></p>
 
-<p align="center">
-→ Consider <a href="https://github.com/sponsors/rougier">supporting</a> my upcoming open access <a href="https://github.com/rougier/scientific-visualization-book">book</a>. Thank you!</p>
+<a href="https://github.com/rougier/scientific-visualization-book">
+<img align="right" alt="→ Consider supporting my upcoming open access book"></a>
+
 <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/book.png" width="100%"/>
+
 
 
 #### Open access books & journals
