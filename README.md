@@ -39,6 +39,12 @@
         </a>
       </th>
       <th>
+        <a href="https://www.slideshare.net/NicolasRougier1" rel="nofollow">
+          <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/slideshare.svg">
+          Slideshare
+        </a>
+      </th>
+      <th>
         <a href="https://www.shadertoy.com/user/rougier" rel="nofollow">
           <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/shadertoy.svg">
           Shadertoy
