@@ -35,7 +35,9 @@
 - **[Freetype Python](https://github.com/rougier/freetype-py)** provides bindings for the FreeType library (only the high-level API is bound).
 - **[Freetype GL](https://github.com/rougier/freetype-gl)** to display Unicode text in OpenGL using a single texture and a single vertex buffer.
 
+
 #### Emacs hacking
+
 <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/nano-emacs-dark.png" width="20%"><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/nano-emacs-light.png" width="20%"><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-0.png" width="20%"/><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-6.png" width="20%"/><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-9.png" width="20%"/>
 
 - **[Emacs / N Λ N O](https://github.com/rougier/nano-emacs)** A nice and consistent look and feel for GNU Emacs, the true editor.
@@ -49,6 +51,9 @@
 
 
 #### Art... or Science
+
+<img src="https://raw.githubusercontent.com/rougier/recursive-voronoi/master/recursive-voronoi.png" width=20%> <img src="https://raw.githubusercontent.com/rougier/windmap/master/windmap.gif" width=20%> <img src="https://raw.githubusercontent.com/rougier/alien-life/master/alien-life.gif" width=20%> <img src="https://raw.githubusercontent.com/rougier/pendulum/master/pendulum.gif" width=20%>
+
 - **[Recursive Voronoi](https://github.com/rougier/recursive-voronoi)** Recursive voronoi using shapely, matplotlib and scipy. 
 - **[Pendulum](https://github.com/rougier/pendulum)** Animated double pendulum using matplotlib.
 - **[Wind map](https://github.com/rougier/windmap)** Animated streamlines using matplotlib.
