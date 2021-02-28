@@ -4,9 +4,9 @@
 > I’m a researcher at the Institute of Neurodegenerative Diseases
 > (Bordeaux, France). I’m investigating decision making, learning and
 > cognition using computational models of the brain. Beside
-> neuroscience and philosophy, I’m also interested in open and
-> reproducible science, scientific visualization, and computer
-> graphics.
+> neuroscience, I’m also interested in open and reproducible science,
+> scientific visualization, and computer graphics. And when I've time,
+> I hack GNU Emacs.
 
 <br/>
 <a href="https://github.com/rougier/scientific-visualization-book">
