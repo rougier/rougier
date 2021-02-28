@@ -1,14 +1,23 @@
 <p><pre align="center">
 <strong>Nicolas P. Rougier /</strong> <a href="https://www.labri.fr/perso/nrougier">Homepage</a> / <a href="https://twitter.com/NPRougier">Twitter</a> / <a href="https://www.reddit.com/user/Nicolas-Rougier/submitted/?sort=top">Reddit</a> / <a href="https://github.com/rougier">GitHub</a> / <a href="https://gist.github.com/rougier">Gist</a> / <a href="https://stackoverflow.com/users/3348261/nicolas-rougier">Stackoveflow</a> / <a href="https://www.slideshare.net/NicolasRougier1">Slideshare</a> / <a href="https://www.shadertoy.com/user/rougier">Shadertoy</a></pre></p>
 
+> I’m a researcher at the Institute of Neurodegenerative Diseases
+> (Bordeaux, France). I’m investigating decision making, learning and
+> cognition using computational models of the brain. Beside
+> neuroscience and philosophy, I’m also interested in open and
+> reproducible science, scientific visualization, and computer
+> graphics.
+
+<br/>
 <a href="https://github.com/rougier/scientific-visualization-book">
 <img align="right" alt="→ Consider supporting my upcoming open access book"></a>
 
 <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/book.png" width="100%"/>
 
+<br/>
 
+### Open access books & journals
 
-#### Open access books & journals
 - **[ReScience C](https://rescience.github.io/)** A scientific journal dedicated to the publication of computational replications that lives on GitHub.
 - **[Scientific Visualization: Python & Matplotlib (WIP)](https://github.com/rougier/scientific-visualization-book)**, an open access book on scientific visualization.  
 - **[Vers une recherche reproductible (French)](https://github.com/rr-france/bookrr)** is a open access book on reproductible research practices.
@@ -16,7 +25,7 @@
 - **[Python & OpenGL for Scientific Visualization](https://www.labri.fr/perso/nrougier/python-opengl/)** is an open access book on modern GL using Python.
 
 
-#### Courses & tutorials
+### Courses & tutorials
 - **[100 Numpy Exercises](https://github.com/rougier/numpy-100)** is a collection of 100 numpy exercises, from easy to hard.
 - **[Computational Neuroscience course (beginner)](https://github.com/rougier/CNCC-2020)** A gentle introduction to computational neuroscience in Python.
 - **[C++ Crash course](https://github.com/rougier/CPP-Crash-Course)** is an introduction to C++ for C programmers.
@@ -26,7 +35,7 @@
 - **[Numpy tutorial](https://github.com/rougier/numpy-tutorial)** An introduction to Numpy for beginners.
 
 
-#### Development
+### Development
 - **[Machine learning recipes](https://github.com/rougier/ML-Recipes)** Self-contained machine learning Python recipes.
 - **[Glumpy](https://glumpy.github.io/)** is a python library for scientific visualization that is both fast, scalable and beautiful.
 - **[VisPy](https://github.com/vispy/vispy)** is a high-performance interactive 2D/3D data visualization library 
@@ -36,7 +45,7 @@
 - **[Freetype GL](https://github.com/rougier/freetype-gl)** to display Unicode text in OpenGL using a single texture and a single vertex buffer.
 
 
-#### Emacs hacking
+### Emacs hacking
 
 <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/nano-emacs-dark.png" width="20%"><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/nano-emacs-light.png" width="20%"><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-0.png" width="20%"/><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-6.png" width="20%"/><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-9.png" width="20%"/>
 
@@ -50,7 +59,7 @@
 - **[Get Things Done](https://github.com/rougier/emacs-gtd)** using org mode.
 
 
-#### Art... or Science
+### Art... or Science
 
 <img src="https://raw.githubusercontent.com/rougier/recursive-voronoi/master/recursive-voronoi.png" width="19%"> <img src="https://raw.githubusercontent.com/rougier/windmap/master/windmap.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/alien-life/master/alien-life.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/pendulum/master/pendulum.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/unknown-pleasures/master/unknown-pleasures.gif" width="19%">
 
@@ -66,7 +75,7 @@
 - **[Open Heroes](https://github.com/rougier/open-heroes)**. Some people that facilitate science, one way or the other.
 
 
-#### Science
+### Science
 
 - <a href="https://doi.org/10.1098/rstb.2019.0668"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[The adaptive value of probability distortion and risk-seeking (2021)](https://github.com/aureliennioche/EvoProspect)**
 - <a href="https://arxiv.org/abs/2011.09534"><img src="https://img.shields.io/badge/arXiv-2011.09534-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Randomized self organizing map (2020)](https://github.com/rougier/VSOM)**
