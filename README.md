@@ -1,16 +1,16 @@
 <p><pre align="center">
 <strong>Nicolas P. Rougier /</strong> <a href="https://www.labri.fr/perso/nrougier">Homepage</a> / <a href="https://twitter.com/NPRougier">Twitter</a> / <a href="https://www.reddit.com/user/Nicolas-Rougier/submitted/?sort=top">Reddit</a> / <a href="https://github.com/rougier">GitHub</a> / <a href="https://gist.github.com/rougier">Gist</a> / <a href="https://stackoverflow.com/users/3348261/nicolas-rougier">Stackoveflow</a> / <a href="https://www.slideshare.net/NicolasRougier1">Slideshare</a> / <a href="https://www.shadertoy.com/user/rougier">Shadertoy</a></pre></p>
 
-> I’m a researcher at the Institute of Neurodegenerative Diseases
-> (Bordeaux, France). I’m investigating decision making, learning and
-> cognition using computational models of the brain. Beside
-> neuroscience, I’m also interested in open and reproducible science,
-> scientific visualization, and computer graphics. And when I've time,
-> I hack GNU Emacs.
+> I’m a researcher and team leader at the Institute of
+> Neurodegenerative Diseases (Bordeaux, France). I’m investigating
+> decision making, learning and cognition using computational models
+> of the brain. Beside neuroscience, I’m also interested in open and
+> reproducible science, scientific visualization, and computer
+> graphics. And when I've time, I hack GNU Emacs.
 
 <br/>
 <a href="https://github.com/rougier/scientific-visualization-book">
-<img align="right" alt="→ Consider supporting my upcoming open access book"></a>
+<img align="right" alt="→ Consider supporting my upcoming book on scientific visualization. Thank you!"></a>
 
 <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/book.png" width="100%"/>
 
@@ -19,7 +19,7 @@
 ### Open access books & journals
 
 - **[ReScience C](https://rescience.github.io/)** A scientific journal dedicated to the publication of computational replications that lives on GitHub.
-- **[Scientific Visualization: Python & Matplotlib (WIP)](https://github.com/rougier/scientific-visualization-book)**, an open access book on scientific visualization.  
+- **Scientific Visualization: Python & Matplotlib** **[(WIP)](https://github.com/rougier/scientific-visualization-book)**, an open access book on scientific visualization.  
 - **[Vers une recherche reproductible (French)](https://github.com/rr-france/bookrr)** is a open access book on reproductible research practices.
 - **[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)** is a open access book on the migration from Python to Numpy through vectorization.
 - **[Python & OpenGL for Scientific Visualization](https://www.labri.fr/perso/nrougier/python-opengl/)** is an open access book on modern GL using Python.
@@ -46,6 +46,10 @@
 
 
 ### Emacs hacking
+
+<a href="https://github.com/sponsors/rougier">
+<img align="right" alt="→ Consider supporting my work on Emacs. Thank you!"></a>
+<br/>
 
 <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/nano-emacs-dark.png" width="20%"><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/nano-emacs-light.png" width="20%"><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-0.png" width="20%"/><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-6.png" width="20%"/><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-9.png" width="20%"/>
 
