@@ -8,7 +8,7 @@
 > reproducible science, scientific visualization, and computer
 > graphics. And when I've time, I hack GNU Emacs.
 
-❗ I'm hiring a [PhD Student in Machine Learning & Experimental Neuroscience](https://aap.u-bordeaux.fr/siaap/pub/appel/view/166). Application deadline: 17/05/2021
+❗ I'm hiring a [PhD Student in Machine Learning (Bags O' Neurons)](https://aap.u-bordeaux.fr/siaap/pub/appel/view/166). Application deadline: 17/05/2021
 
 <br/>
 <a href="https://github.com/rougier/scientific-visualization-book">
