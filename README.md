@@ -47,7 +47,7 @@
 ### Baby GNU & Tux
 <img src="https://raw.githubusercontent.com/rougier/baby-gnu-tux/master/baby-gnu-tux.jpg" width="25%"><img src="https://raw.githubusercontent.com/rougier/baby-gnu-tux/master/baby-gnu.png" width="12%"><img src="https://raw.githubusercontent.com/rougier/baby-gnu-tux/master/baby-tux.png" width="12%">
 
-- **Baby GNU & Tux**  Original artwork
+- **[Baby GNU & Tux](https://github.com/rougier/baby-gnu-tux)**  Original artwork
 
 ### Emacs hacking
 
