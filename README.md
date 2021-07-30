@@ -44,6 +44,10 @@
 - **[Freetype Python](https://github.com/rougier/freetype-py)** provides bindings for the FreeType library (only the high-level API is bound).
 - **[Freetype GL](https://github.com/rougier/freetype-gl)** to display Unicode text in OpenGL using a single texture and a single vertex buffer.
 
+### Baby GNU & Tux
+<img src="https://raw.githubusercontent.com/rougier/baby-gnu-tux/master/baby-gnu-tux.jpg" width="25%"><img src="https://raw.githubusercontent.com/rougier/baby-gnu-tux/master/baby-gnu.png" width="12%"><img src="https://raw.githubusercontent.com/rougier/baby-gnu-tux/master/baby-tux.png" width="12%">
+
+- **Baby GNU & Tux**  Original artwork
 
 ### Emacs hacking
 
