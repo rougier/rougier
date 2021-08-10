@@ -25,10 +25,4 @@ jobs:
           plugin_achievements_limit: 5
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: A
-          plugin_gists: yes
-          plugin_projects: yes
-          plugin_projects_limit: 4
-          # plugin_repositories: 100
-          plugin_repositories: yes
-          plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 100
+          
