@@ -5,6 +5,10 @@
 <img src="metrics-base.svg" align="left" width="47.5%"></img>
 <img src="metrics-achievements.svg" align="left" width="47.5%"></img>
 
+<br/>
+———
+<br/>
+
 > I’m a researcher and team leader at the Institute of
 > Neurodegenerative Diseases (Bordeaux, France). I’m investigating
 > decision making, learning and cognition using computational models
