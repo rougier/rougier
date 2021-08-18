@@ -19,5 +19,5 @@ jobs:
           user: rougier
           template: classic
           filename: metrics-base.svg
-          base: activity, community, repositories
+          base: header, activity, community, repositories
           config_timezone: Europe/Paris
