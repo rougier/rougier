@@ -8,6 +8,11 @@
 > reproducible science, scientific visualization, and computer
 > graphics. And when I've time, I hack GNU Emacs.
 
+<!--
+<img src="metrics-base.svg" align="left" width="45%"></img>
+<img src="metrics-achievements.svg" align="left" width="45%"></img>
+-->
+
 <br/>
 <a href="https://github.com/rougier/scientific-visualization-book">
 <img align="right" alt="→ Consider supporting my upcoming book on scientific visualization. Thank you!"></a>
