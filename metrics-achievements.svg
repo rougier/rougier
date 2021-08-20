@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="126" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="310" class="">
     <defs>
         <style/>
     </defs>
@@ -1267,7 +1267,7 @@
       Achievements
     </h2>
                 <div class="row">
-                    <section class="achievements compact largeable-flex-wrap">
+                    <section class="achievements detailed largeable-flex-wrap">
                         <div class="achievement s largeable-width-half">
                             <div class="icon">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
@@ -1297,12 +1297,6 @@
                                 <div class="title">
                   <span class="prefix">Master</span> worker
                   
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        24
-                      </div>
-                    </div>
                   
                 </div>
                                 <div class="text">Joined 24 organizations</div>
@@ -1344,12 +1338,6 @@
                   <span class="prefix">Master</span> forker
                   
                   
-                    <div class="value-wrapper">
-                      <div class="value">
-                        110
-                      </div>
-                    </div>
-                  
                 </div>
                                 <div class="text">Forked 110 public repositories</div>
                             </div>
@@ -1364,7 +1352,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="283.5466666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="283.65000000000003 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1400,14 +1388,8 @@
                     </span>
                   
                   
-                    <div class="value-wrapper">
-                      <div class="value">
-                        3744
-                      </div>
-                    </div>
-                  
                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 3744 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 3745 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1420,7 +1402,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="237.46 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="237.66666666666669 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1462,14 +1444,8 @@
                     </span>
                   
                   
-                    <div class="value-wrapper">
-                      <div class="value">
-                        3298
-                      </div>
-                    </div>
-                  
                 </div>
-                                <div class="text">Followed by 3298 users</div>
+                                <div class="text">Followed by 3300 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1511,12 +1487,6 @@
                       ranked 24k out of 75m users
                     </span>
                   
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        244
-                      </div>
-                    </div>
                   
                 </div>
                                 <div class="text">Published 244 public repositories</div>
