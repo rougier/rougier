@@ -4,16 +4,13 @@
 <a href="https://metrics.lecoq.io/about/rougier"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
 <a href="https://metrics.lecoq.io/about/rougier"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
 
-<br/>
-———
-<br/>
 
-> I’m a researcher and team leader at the Institute of
-> Neurodegenerative Diseases (Bordeaux, France). I’m investigating
-> decision making, learning and cognition using computational models
-> of the brain. Beside neuroscience, I’m also interested in open and
-> reproducible science, scientific visualization, and computer
-> graphics. And when I've time, I hack GNU Emacs.
+I’m a researcher and team leader at the Institute of
+Neurodegenerative Diseases (Bordeaux, France). I’m investigating
+decision making, learning and cognition using computational models
+of the brain. Beside neuroscience, I’m also interested in open and
+reproducible science, scientific visualization, and computer
+graphics. And when I've time, I hack GNU Emacs.
 
 <br/>
 <a href="https://github.com/rougier/scientific-visualization-book">
