@@ -27,4 +27,3 @@ jobs:
           plugin_achievements_threshold: C
 #          plugin_achievements_display: compact
           repositories: 200
-          repositories_forks: yes
