@@ -1352,7 +1352,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="286.85333333333335 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="287.16333333333336 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1384,12 +1384,12 @@
                   <span class="prefix">Master</span> inspirer
                   
                     <span class="gh">
-                      ranked 942 out of 238m repositories
+                      ranked 943 out of 238m repositories
                     </span>
                   
                   
                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 3776 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 3779 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1402,7 +1402,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="242.00666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="242.31666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1440,12 +1440,12 @@
                   <span class="prefix">Master</span> influencer
                   
                     <span class="gh">
-                      ranked 666 out of 76m users
+                      ranked 665 out of 76m users
                     </span>
                   
                   
                 </div>
-                                <div class="text">Followed by 3342 users</div>
+                                <div class="text">Followed by 3345 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1484,7 +1484,7 @@
                   <span class="prefix">Master</span> developer
                   
                     <span class="gh">
-                      ranked 23.9k out of 76m users
+                      ranked 24k out of 76m users
                     </span>
                   
                   
@@ -1502,7 +1502,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="35.73408557921103 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="35.815043379724784 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
