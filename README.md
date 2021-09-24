@@ -61,14 +61,13 @@ graphics. And when I've time, I hack GNU Emacs.
 
 <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/nano-emacs-dark.png" width="20%"><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/nano-emacs-light.png" width="20%"><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-0.png" width="20%"/><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-6.png" width="20%"/><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-9.png" width="20%"/>
 
-- **[Emacs / N Λ N O](https://github.com/rougier/nano-emacs)** A nice and consistent look and feel for GNU Emacs, the true editor.
-- **[Elegant Emacs](https://github.com/rougier/elegant-emacs)** A very minimal but elegant emacs (I think). 
-- **[SVG tag mode](https://github.com/rougier/svg-tag-mode)**  An Emacs
-  minor mode to replace keywords or (regex) with SVG rounded box labels.
-- **[Mu4e dashboard](https://github.com/rougier/mu4e-dashboard)** allows to organise mu4e queries into a dashboard by writing a regular org file.
-- **[Mu4e thread folding](https://github.com/rougier/mu4e-thread-folding)** is a small library that enable threads folding in mu4e using overlays.
-- **[Org agenda](https://github.com/rougier/agenda)** gives an interactive view (whole year) of your agenda in the console.
-- **[Get Things Done](https://github.com/rougier/emacs-gtd)** using org mode.
+- **[Emacs / N Λ N O](https://github.com/rougier/nano-emacs)** A nice and consistent look and feel for GNU Emacs, the true editor. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/nano-emacs?style=social">
+- **[Elegant Emacs](https://github.com/rougier/elegant-emacs)** A very minimal but elegant emacs (I think). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/elegant-emacs?style=social"> 
+- **[SVG tag mode](https://github.com/rougier/svg-tag-mode)**  An Emacs minor mode to replace keywords or (regex) with SVG rounded box labels. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/svg-tag-mode?style=social">
+- **[Mu4e dashboard](https://github.com/rougier/mu4e-dashboard)** allows to organise mu4e queries into a dashboard by writing a regular org file. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/mu4e-dashboard?style=social">
+- **[Mu4e thread folding](https://github.com/rougier/mu4e-thread-folding)** is a small library that enable threads folding in mu4e using overlays. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/mu4e-thread-folding?style=social">
+- **[Org agenda](https://github.com/rougier/agenda)** gives an interactive view (whole year) of your agenda in the console. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/agenda?style=social">
+- **[Get Things Done](https://github.com/rougier/emacs-gtd)** using org mode. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/emacs-gtd?style=social">
 
 
 ### Art... or Science
