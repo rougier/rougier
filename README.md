@@ -31,7 +31,7 @@ graphics. And when I've time, I hack GNU Emacs.
 
 ### Courses & tutorials
 - **[100 Numpy Exercises](https://github.com/rougier/numpy-100)** is a collection of 100 numpy exercises, from easy to hard. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/numpy-100?style=social">
-- **[Computational Neuroscience course (beginner)](https://github.com/rougier/CNCC-2020)** A gentle introduction to computational neuroscience in Python. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/CNCC-2020?style=social">
+- **[Computational Neuroscience course](https://github.com/rougier/CNCC-2020)** A gentle introduction to computational neuroscience in Python. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/CNCC-2020?style=social">
 - **[C++ Crash course](https://github.com/rougier/CPP-Crash-Course)** is an introduction to C++ for C programmers. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/CPP-Crash-Course?style=social">
 - **[Matplotlib cheatsheets](https://github.com/matplotlib/cheatsheets)** are the official cheasheets (+ 2 handouts) that I designed. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/matplotlib/cheatsheets?style=social">
 - **[Git & GitHub course](https://github.com/rougier/URFIST-git-course)** A gentle introduction to git and GitHub. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/URFIST-git-course?style=social">
