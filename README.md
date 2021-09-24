@@ -22,7 +22,7 @@ graphics. And when I've time, I hack GNU Emacs.
 
 ### Open access books & journals
 
-- **[ReScience C](https://rescience.github.io/)** A scientific journal dedicated to the publication of computational replications that lives on GitHub. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rescience/rescience?style=social"> 
+- **[ReScience C](https://rescience.github.io/)** A scientific journal dedicated to the publication of computational replications. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rescience/rescience?style=social"> 
 - **Scientific Visualization: Python & Matplotlib** **[(WIP)](https://github.com/rougier/scientific-visualization-book)**, an open access book on scientific visualization.  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/scientific-visualization-book?style=social"> 
 - **[Vers une recherche reproductible (French)](https://github.com/rr-france/bookrr)** is a open access book on reproductible research practices. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rr-france/bookrr?style=social"> 
 - **[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)** is a open access book on the migration from Python to Numpy through vectorization. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/from-python-to-numpy?style=social"> 
