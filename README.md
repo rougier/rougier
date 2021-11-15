@@ -14,7 +14,7 @@ graphics. And when I've time, I hack GNU Emacs.
 
 <br/>
 <a href="https://github.com/rougier/scientific-visualization-book">
-<img align="right" alt="→ Consider supporting my upcoming book on scientific visualization. Thank you!"></a>
+<img align="right" alt="→ Consider supporting my work on Python and Emacs. Thank you!"></a>
 
 <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/book.png" width="100%"/>
 
