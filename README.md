@@ -63,7 +63,7 @@ graphics. And when I've time, I hack GNU Emacs.
 
 - **[Emacs / N Λ N O](https://github.com/rougier/nano-emacs)** A nice and consistent look and feel for GNU Emacs, the true editor. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/nano-emacs?style=social">
 - **[Emacs Notebook](https://github.com/rougier/notebook-mode)** GNU Emacs computational notebook using the powerful orgmode. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/notebook-mode?style=social"> 
-- **[My literate Emacs configuration](https://github.com/rougier/dotemacs)** This is my current Emacs configuration using org-mode.
+- **[My literate Emacs configuration](https://github.com/rougier/dotemacs)** This is my current Emacs configuration using org-mode. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/dotemacs?style=social">
 - **[Literate & annotated bibliography](https://github.com/rougier/org-bib-mode)** using org-mode, bibtex with drag and drop support. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/org-bib-mode?style=social">
 - **[Elegant Emacs](https://github.com/rougier/elegant-emacs)** A very minimal but elegant emacs (I think). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/elegant-emacs?style=social"> 
 - **[SVG lib](https://github.com/rougier/svg-lib)** A library to create and display SVG tags, progress bars and icons. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/svg-lib?style=social">
