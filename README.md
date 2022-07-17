@@ -76,7 +76,7 @@ graphics. And when I've time, I hack GNU Emacs.
 
 ### Art... or Science
 
-<img src="https://raw.githubusercontent.com/rougier/recursive-voronoi/master/recursive-voronoi.png" width="19%"> <img src="https://raw.githubusercontent.com/rougier/windmap/master/windmap.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/alien-life/master/alien-life.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/pendulum/master/pendulum.gif" width="19%"> <img src="https://raw.githubusercontent.com/rougier/unknown-pleasures/master/unknown-pleasures.gif" width="19%">
+<img src="https://raw.githubusercontent.com/rougier/recursive-voronoi/master/recursive-voronoi.png" width="150px"> <img src="https://raw.githubusercontent.com/rougier/windmap/master/windmap.gif" width="150px"> <img src="https://raw.githubusercontent.com/rougier/alien-life/master/alien-life.gif" width="150px"> <img src="https://raw.githubusercontent.com/rougier/pendulum/master/pendulum.gif" width="150px"> <img src="https://raw.githubusercontent.com/rougier/unknown-pleasures/master/unknown-pleasures.gif" width="150px">
 
 
 - **[Recursive Voronoi](https://github.com/rougier/recursive-voronoi)** Recursive voronoi using shapely, matplotlib and scipy. 
