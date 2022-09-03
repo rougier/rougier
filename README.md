@@ -1,24 +1,13 @@
 <p><pre align="center">
 <strong>Nicolas P. Rougier /</strong> <a href="https://www.labri.fr/perso/nrougier">Homepage</a> / <a href="https://twitter.com/NPRougier">Twitter</a> / <a href="https://www.reddit.com/user/Nicolas-Rougier/submitted/?sort=top">Reddit</a> / <a href="https://github.com/rougier">GitHub</a> / <a href="https://gist.github.com/rougier">Gist</a> / <a href="https://stackoverflow.com/users/3348261/nicolas-rougier">Stack Overflow</a> / <a href="https://www.slideshare.net/NicolasRougier1">Slideshare</a> / <a href="https://www.shadertoy.com/user/rougier">Shadertoy</a></pre></p>
 
+I’m a researcher and team leader at the Institute of Neurodegenerative Diseases (Bordeaux, France). I’m investigating decision making, learning and cognition using computational models of the brain. Beside neuroscience, I’m also interested in open and reproducible science, scientific visualization, and computer graphics. And when I've time, I hack GNU Emacs.<br/>
+
+<b>Consider supporting my work on Python and Emacs. Thank you!</b><br/>
+
 <a href="https://metrics.lecoq.io/about/rougier"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
 <a href="https://metrics.lecoq.io/about/rougier"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
 
-
-I’m a researcher and team leader at the Institute of
-Neurodegenerative Diseases (Bordeaux, France). I’m investigating
-decision making, learning and cognition using computational models
-of the brain. Beside neuroscience, I’m also interested in open and
-reproducible science, scientific visualization, and computer
-graphics. And when I've time, I hack GNU Emacs.
-
-<br/>
-<a href="https://github.com/rougier/scientific-visualization-book">
-<img align="right" alt="→ Consider supporting my work on Python and Emacs. Thank you!"></a>
-
-<img src="https://raw.githubusercontent.com/rougier/rougier/master/img/book.png" width="100%"/>
-
-<br/>
 
 ### Open access books & journals
 
