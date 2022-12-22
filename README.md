@@ -9,6 +9,10 @@ Consider **[supporting my work](https://github.com/sponsors/rougier)**. Thank yo
 <a href="https://metrics.lecoq.io/about/rougier"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
 
 
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rougier/scientific-visualization-book,rougier/numpy-100,matplotlib/cheatsheets,rougier/from-python-to-numpy,rougier/nano-emacs&type=Date)](https://star-history.com/#rougier/scientific-visualization-book&rougier/numpy-100&matplotlib/cheatsheets&rougier/from-python-to-numpy&rougier/nano-emacs&Date)
+
 ### Open access books & journals
 
 - **[ReScience C](https://rescience.github.io/)** A scientific journal dedicated to the publication of computational replications. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rescience/rescience?style=social"> 
