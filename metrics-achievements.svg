@@ -97,7 +97,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="500.65 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="500.75333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -136,7 +136,7 @@
                                     influencer
                                     <span class="gh">ranked 448 out of 110m users</span>
                                 </div>
-                                <div class="text">Followed by 5845 users</div>
+                                <div class="text">Followed by 5846 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -149,7 +149,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="412.8166666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="413.22999999999996 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -180,9 +180,9 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     inspirer
-                                    <span class="gh">ranked 839 out of 385m repositories</span>
+                                    <span class="gh">ranked 840 out of 385m repositories</span>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 4995 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 4999 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -235,7 +235,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.50924024640656 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.59411362080768 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
