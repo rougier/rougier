@@ -1,12 +1,15 @@
+
 <p><pre align="center">
 <strong>Nicolas P. Rougier /</strong> <a href="https://www.labri.fr/perso/nrougier">Homepage</a> / <a href="https://toot.aquilenet.fr/@rougier">Mastodon</a> / <a href="https://www.reddit.com/user/Nicolas-Rougier/submitted/?sort=top">Reddit</a> / <a href="https://github.com/rougier">GitHub</a> / <a href="https://gist.github.com/rougier">Gist</a> / <a href="https://stackoverflow.com/users/3348261/nicolas-rougier">Stack Overflow</a> / <a href="https://www.slideshare.net/NicolasRougier1">Slideshare</a> / <a href="https://www.shadertoy.com/user/rougier">Shadertoy</a></pre></p>
+
+<a href="https://metrics.lecoq.io/about/rougier"><img src="metrics-base.svg" align="right" width="40.5%"></img></a>
 
 I’m a researcher and team leader at the Institute of Neurodegenerative Diseases (Bordeaux, France). I’m investigating decision making, learning and cognition using computational models of the brain. Beside neuroscience, I’m also interested in open and reproducible science, scientific visualization, and computer graphics. And when I've time, I hack GNU Emacs.<br/>
 
 Consider **[supporting my work](https://github.com/sponsors/rougier)**. Thank you!</b><br/>
 
-<a href="https://metrics.lecoq.io/about/rougier"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
 
+<br/><br/><br/><br/>
 
 
 ### Open access books & journals
