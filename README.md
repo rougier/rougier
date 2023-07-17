@@ -47,10 +47,6 @@ Consider **[supporting my work](https://github.com/sponsors/rougier)**. Thank yo
 
 ### Emacs hacking
 
-<a href="https://github.com/sponsors/rougier">
-<img align="right" alt="→ Consider supporting my work on Emacs. Thank you!"></a>
-<br/>
-
 <img src="https://raw.githubusercontent.com/rougier/rougier/master/img/nano-emacs-dark.png" width="20%"><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/nano-emacs-light.png" width="20%"><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-0.png" width="20%"/><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-6.png" width="20%"/><img src="https://raw.githubusercontent.com/rougier/rougier/master/img/screenshot-9.png" width="20%"/>
 
 - **[Emacs / N Λ N O](https://github.com/rougier/nano-emacs)** A nice and consistent look and feel for GNU Emacs, the true editor. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/nano-emacs?style=social">
