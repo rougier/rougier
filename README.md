@@ -6,7 +6,7 @@ I’m a researcher and team leader at the Institute of Neurodegenerative Disease
 Consider **[supporting my work](https://github.com/sponsors/rougier)**. Thank you!</b><br/>
 
 <a href="https://metrics.lecoq.io/about/rougier"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
-<a href="https://metrics.lecoq.io/about/rougier"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
+
 
 
 ### Open access books & journals
