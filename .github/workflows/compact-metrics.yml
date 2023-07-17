@@ -1,0 +1,26 @@
+name: Compact metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+        filename: metrics.plugin.achievements.compact.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_achievements: yes
+        plugin_achievements_only: >-
+          polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+          scripter, packager, explorer, infographile, manager
+        plugin_achievements_display: compact
+        plugin_achievements_threshold: X
