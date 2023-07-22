@@ -77,6 +77,11 @@ Consider **[supporting my work](https://github.com/sponsors/rougier)**. Thank yo
 - **[Baby GNU & baby Tux](https://github.com/rougier/baby-gnu-tux)**. Original vector and 3D models of baby GNU and baby. 3D printer ready.
 - **[Open Heroes](https://github.com/rougier/open-heroes)**. Some people that facilitate science, one way or the other.
 
+### Posters
+
+<img src="https://raw.githubusercontent.com/rougier/scientific-posters/master/thumbnails/2015-Euroscipy.png" width="20%"><img src="https://raw.githubusercontent.com/rougier/scientific-posters/master/thumbnails/2015-SBDM.png" width="20%"><img src="https://raw.githubusercontent.com/rougier/scientific-posters/master/thumbnails/2016-Calculer.png" width="20%"/><img src="https://raw.githubusercontent.com/rougier/scientific-posters/master/thumbnails/2016-Comprendre.png" width="20%"/><img src="https://raw.githubusercontent.com/rougier/scientific-posters/master/thumbnails/2023-iBAGS.png" width="20%"/>
+
+- **[Scientific posters](https://github.com/rougier/scientific-posters)** Scienfitic posters sources (using Pages or ComicLife)
 
 ### Science
 
