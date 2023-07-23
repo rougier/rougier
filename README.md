@@ -79,7 +79,8 @@ Consider **[supporting my work](https://github.com/sponsors/rougier)**. Thank yo
 
 ### Posters
 
-<img src="https://raw.githubusercontent.com/rougier/scientific-posters/master/thumbnails/2015-Euroscipy.png" width="20%"><img src="https://raw.githubusercontent.com/rougier/scientific-posters/master/thumbnails/2015-SBDM.png" width="20%"><img src="https://raw.githubusercontent.com/rougier/scientific-posters/master/thumbnails/2016-Calculer.png" width="20%"/><img src="https://raw.githubusercontent.com/rougier/scientific-posters/master/thumbnails/2016-Comprendre.png" width="20%"/><img src="https://raw.githubusercontent.com/rougier/scientific-posters/master/thumbnails/2023-iBAGS.png" width="20%"/>
+<img src="https://raw.githubusercontent.com/rougier/scientific-posters/master/thumbnails/2015-Euroscipy.png" width="19%"><img src="https://raw.githubusercontent.com/rougier/scientific-posters/master/thumbnails/2015-SBDM.png" width="19%"><img src="https://raw.githubusercontent.com/rougier/scientific-posters/master/thumbnails/2023-iBAGS.png" width="19%"/>
+<img src="https://raw.githubusercontent.com/rougier/conference-posters/master/thumbnails/2020-TYRC.png" width="19%"/><img src="https://raw.githubusercontent.com/rougier/conference-posters/master/thumbnails/2022-Hypermondes.png" width="19%"/>
 
 - **[Scientific posters](https://github.com/rougier/scientific-posters)** Scienfitic posters sources (using Pages or ComicLife)
 - **[Conference posters](https://github.com/rougier/conference-posters)** Conference posters sources (using Pages)
