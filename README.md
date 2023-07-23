@@ -7,7 +7,10 @@
 I’m a researcher and team leader at the Institute of Neurodegenerative Diseases (Bordeaux, France). I’m investigating decision making, learning and cognition using computational models of the brain. Beside neuroscience, I’m also interested in open and reproducible science, scientific visualization, and computer graphics. And when I've time, I hack GNU Emacs.<br/>
 
 Consider **[supporting my work](https://github.com/sponsors/rougier)**. Thank you!</b><br/>
-
+<a href="https://github.com/sponsors/rougier/sponsorships?sponsor=rougier&tier_id=11113&preview=false"><img src="https://img.shields.io/badge/1%24%2FMo-black?style=flat-square&label=Sponsor&labelColor=green"></a>
+<a href="https://github.com/sponsors/rougier/sponsorships?sponsor=rougier&tier_id=6981&preview=false"><img src="https://img.shields.io/badge/5%24%2FMo-black?style=flat-square&label=Sponsor&labelColor=yellow"></a>
+<a href="https://github.com/sponsors/rougier/sponsorships?sponsor=rougier&tier_id=11147&preview=false"><img src="https://img.shields.io/badge/10%24%2FMo-black?style=flat-square&label=Sponsor&labelColor=orange"></a>
+<a href="https://github.com/sponsors/rougier/sponsorships?sponsor=rougier&tier_id=108712&preview=false"><img src="https://img.shields.io/badge/25%24%2FMo-black?style=flat-square&label=Sponsor&labelColor=red"></a>
 
 <br/><br/><br/><br/>
 
