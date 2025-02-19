@@ -50,7 +50,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 23.9k out of 156m users</span>
+                                    <span class="gh">ranked 23.9k out of 157m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">319</div>
                                     </div>
@@ -68,7 +68,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124.93360711841207 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="125.01848049281313 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -107,7 +107,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="25.171999999999997 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="25.234 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -132,10 +132,10 @@
                                     maintainer
                                     <span class="gh">ranked 3.07k out of 240m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">12436</div>
+                                        <div class="value">12442</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 12436 stars</div>
+                                <div class="text">Maintaining a repository with 12442 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
