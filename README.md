@@ -1,5 +1,5 @@
 
-![https://github.com/rougier/braincraft](img/braincraft.png)
+[![](img/braincraft.png)](https://github.com/rougier/braincraft)
 
 <p><pre align="center">
 <strong>Nicolas P. Rougier /</strong> <a href="https://www.labri.fr/perso/nrougier">Homepage</a> / <a href="https://toot.aquilenet.fr/@rougier">Mastodon</a> / <a href="https://www.reddit.com/user/Nicolas-Rougier/submitted/?sort=top">Reddit</a> / <a href="https://github.com/rougier">GitHub</a> / <a href="https://gist.github.com/rougier">Gist</a> / <a href="https://stackoverflow.com/users/3348261/nicolas-rougier">Stack Overflow</a> / <a href="https://www.slideshare.net/NicolasRougier1">Slideshare</a> / <a href="https://www.shadertoy.com/user/rougier">Shadertoy</a></pre></p>
